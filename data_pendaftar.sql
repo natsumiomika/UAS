@@ -29,8 +29,6 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `data_pendaftar` (
   `id` int(20) NOT NULL,
-  `nama_depan` varchar(50) NOT NULL,
-  `nama_belakang` varchar(50) NOT NULL,
   `email` varchar(50) NOT NULL,
   `username` varchar(20) NOT NULL,
   `password` varchar(20) NOT NULL
@@ -40,7 +38,7 @@ CREATE TABLE `data_pendaftar` (
 -- Dumping data for table `data_pendaftar`
 --
 
-INSERT INTO `data_pendaftar` (`id`, `nama_depan`, `nama_belakang`, `email`, `username`, `password`) VALUES
+INSERT INTO `data_pendaftar` (`id`, `email`, `username`, `password`) VALUES
 (14, 'sani', 'hamdhani', 'asd', 'ada', 'afafa');
 
 --
