@@ -45,7 +45,7 @@
 </div>
 
 <div class="jumbotron bg-danger text-center text-black" style="margin-top:30; margin-bottom: 0px; font-family: 'Times New Roman', Times, serif;">
-  <p>&copy Copyright by 18111139_Rifki Adriansyah_TIF RP 18 CNS A</p>
+  <p>&copy Copyright by 18111139_Rifki Adriansyah_TIF RP 18 CNS A_UAS WEB 1</p>
 </div>
 </div>
 <div style="position:fixed;left:20px;bottom:20px;font-family: 'Times New Roman', Times, serif;">
